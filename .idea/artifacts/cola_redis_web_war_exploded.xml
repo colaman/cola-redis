@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cola-redis-web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cola_redis_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cola-redis-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cola-redis-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
